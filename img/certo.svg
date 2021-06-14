@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-checkmark</title>
+    <g id="icon-checkmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Path-3" stroke="#8665FE" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" points="26 40.2970887 36.0561911 50.265625 55 29.265625"></polyline>
+        <circle id="Oval" stroke="#8665FE" stroke-width="6" cx="40.5" cy="39.5" r="27.5"></circle>
+    </g>
+</svg>

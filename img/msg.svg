@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/chat</title>
+    <g id="icon/chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M75,26 C76.6568542,26 78.1568542,26.6715729 79.2426407,27.7573593 C80.3284271,28.8431458 81,30.3431458 81,32 L81,32 L81,66 C81,67.6568542 80.3284271,69.1568542 79.2426407,70.2426407 C78.1568542,71.3284271 76.6568542,72 75,72 L75,72 L47.2305205,72 L39.0049787,81.048096 L30.7677964,72 L25,72 C23.3431458,72 21.8431458,71.3284271 20.7573593,70.2426407 C19.6715729,69.1568542 19,67.6568542 19,66 L19,66 L19,32 C19,30.3431458 19.6715729,28.8431458 20.7573593,27.7573593 C21.8431458,26.6715729 23.3431458,26 25,26 L25,26 Z" id="Rectangle" stroke="#8665FE" stroke-width="8"></path>
+        <rect id="Rectangle" fill="#8665FE" x="31" y="38" width="38" height="8" rx="4"></rect>
+        <rect id="Rectangle" fill="#8665FE" x="31" y="52" width="28" height="8" rx="4"></rect>
+    </g>
+</svg>

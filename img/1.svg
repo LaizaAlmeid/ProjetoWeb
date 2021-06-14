@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/document</title>
+    <g id="icon/document" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M58.3431458,19 L76,36.6568542 L76,75 C76,76.6568542 75.3284271,78.1568542 74.2426407,79.2426407 C73.1568542,80.3284271 71.6568542,81 70,81 L70,81 L30,81 C28.3431458,81 26.8431458,80.3284271 25.7573593,79.2426407 C24.6715729,78.1568542 24,76.6568542 24,75 L24,75 L24,25 C24,23.3431458 24.6715729,21.8431458 25.7573593,20.7573593 C26.8431458,19.6715729 28.3431458,19 30,19 L30,19 L58.3431458,19 L58.3431458,19 Z" id="Rectangle" stroke="#8665FE" stroke-width="8"></path>
+        <path d="M53,18 L53,38 C53,40.209139 54.790861,42 57,42 L77,42 L77,42" id="Path-6" stroke="#8665FE" stroke-width="8"></path>
+    </g>
+</svg>
