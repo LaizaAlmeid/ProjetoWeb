@@ -1,4 +1,3 @@
-// coment Constructor
 class Coment {
     constructor(nome, mensagem) {
         this.nome = nome;
@@ -7,7 +6,6 @@ class Coment {
     }
 }
 
-// UI Constructor
 class UI {
     addComent(coment) {
         const comentList = document.getElementById('coment-list');
@@ -37,7 +35,6 @@ class UI {
 
 }
 
-// DOM Events
 document.getElementById('coment-form').addEventListener('submit', function(e) {
 
     const nome = document.getElementById('nome').value,
